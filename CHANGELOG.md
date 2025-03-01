@@ -1,3 +1,11 @@
+## [1.5.1](https://github.com/bh-devops-playground/microservice-a/compare/v1.5.0...v1.5.1) (2025-03-01)
+
+
+### Bug Fixes
+
+* change on command ([ad603a2](https://github.com/bh-devops-playground/microservice-a/commit/ad603a2e2c40815ed19e000b1ccde4dd1d0a0a55))
+* change on command ([#12](https://github.com/bh-devops-playground/microservice-a/issues/12)) ([bf17146](https://github.com/bh-devops-playground/microservice-a/commit/bf17146deca0f16613f5f814ad7f50eb7aa357c5))
+
 # [1.5.0](https://github.com/bh-devops-playground/microservice-a/compare/v1.4.0...v1.5.0) (2025-03-01)
 
 
