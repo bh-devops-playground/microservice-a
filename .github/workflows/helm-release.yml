@@ -35,6 +35,7 @@ jobs:
       - name: Package Helm Chart
         run: |
           helm package helm --version ${{ env.CHART_VERSION }} --app-version ${{ env.CHART_VERSION }}
+          mv ./microservice-a-${{ github.ref_name }}.tgz ./helm-chart-${{ github.ref_name }}.tgz
 
       - name: Log in to GitHub Container Registry
         run: echo "${{ secrets.GITHUB_TOKEN }}" | helm registry login ghcr.io -u ${{ github.actor }} --password-stdin
