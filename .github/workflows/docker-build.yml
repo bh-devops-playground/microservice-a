@@ -5,6 +5,8 @@ on:
     workflows: ["Semantic Release"]
     types:
       - completed
+    conclusions:
+      - success
   push:
     tags:
       - 'v*'
