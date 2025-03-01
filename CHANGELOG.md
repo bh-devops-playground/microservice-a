@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/bh-devops-playground/microservice-a/compare/v1.1.0...v1.2.0) (2025-03-01)
+
+
+### Features
+
+* change deployment with new pipeline ([e134da1](https://github.com/bh-devops-playground/microservice-a/commit/e134da107e0d970e9e4a670cf8fd3ea8b06012ec))
+
 # [1.1.0](https://github.com/bh-devops-playground/microservice-a/compare/v1.0.0...v1.1.0) (2025-03-01)
 
 
