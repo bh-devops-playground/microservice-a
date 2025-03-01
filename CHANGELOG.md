@@ -1,3 +1,11 @@
+## [1.5.5](https://github.com/bh-devops-playground/microservice-a/compare/v1.5.4...v1.5.5) (2025-03-01)
+
+
+### Bug Fixes
+
+* v2 helm-chart-change-comman ([ab23b00](https://github.com/bh-devops-playground/microservice-a/commit/ab23b00d36765473162ae30375b8de469711b95d))
+* v2 helm-chart-change-comman ([#15](https://github.com/bh-devops-playground/microservice-a/issues/15)) ([b6c0015](https://github.com/bh-devops-playground/microservice-a/commit/b6c00151fd7e8da2f7869bda8e4f5f4ecd408c44))
+
 ## [1.5.4](https://github.com/bh-devops-playground/microservice-a/compare/v1.5.3...v1.5.4) (2025-03-01)
 
 
