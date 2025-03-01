@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/bh-devops-playground/microservice-a/compare/v1.3.0...v1.4.0) (2025-03-01)
+
+
+### Features
+
+* add success step to docker build ([6b138fb](https://github.com/bh-devops-playground/microservice-a/commit/6b138fb9e01e70cd12f0393b0476edaf72899263))
+* add success step to docker build ([#10](https://github.com/bh-devops-playground/microservice-a/issues/10)) ([32d32dd](https://github.com/bh-devops-playground/microservice-a/commit/32d32dd477db85a73d3e7c324d60576ac21e9a37))
+
 # [1.3.0](https://github.com/bh-devops-playground/microservice-a/compare/v1.2.1...v1.3.0) (2025-03-01)
 
 
