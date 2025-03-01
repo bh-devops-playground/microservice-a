@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/bh-devops-playground/microservice-a/compare/v1.2.1...v1.3.0) (2025-03-01)
+
+
+### Features
+
+* fix the test files. ([2c0e7a5](https://github.com/bh-devops-playground/microservice-a/commit/2c0e7a5973422aa1483227d599f730c24d07f0ab))
+* fix the test filesmerge. ([37f2312](https://github.com/bh-devops-playground/microservice-a/commit/37f231271ff296600011af7a7e1b618a894fd185))
+
 ## [1.2.1](https://github.com/bh-devops-playground/microservice-a/compare/v1.2.0...v1.2.1) (2025-03-01)
 
 
