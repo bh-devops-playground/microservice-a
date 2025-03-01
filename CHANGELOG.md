@@ -1,3 +1,10 @@
+## [1.5.7](https://github.com/bh-devops-playground/microservice-a/compare/v1.5.6...v1.5.7) (2025-03-01)
+
+
+### Bug Fixes
+
+* change helm package name ([1c43cb7](https://github.com/bh-devops-playground/microservice-a/commit/1c43cb7f6f3cc9862ba831504f99bb8a9bb53e38))
+
 ## [1.5.6](https://github.com/bh-devops-playground/microservice-a/compare/v1.5.5...v1.5.6) (2025-03-01)
 
 
