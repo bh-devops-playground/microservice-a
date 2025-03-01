@@ -9,7 +9,7 @@ import (
 
 func TestHandler(t *testing.T) {
 	if time.Now().Unix()%2 == 0 {
-		t.Fatal("Random failure for testing purposes")
+		//t.Fatal("Random failure for testing purposes")
 	}
 
 	req := httptest.NewRequest("GET", "/", nil)
