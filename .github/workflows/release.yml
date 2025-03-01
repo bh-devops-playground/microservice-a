@@ -3,7 +3,7 @@ name: Semantic Release
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   release:
@@ -12,13 +12,13 @@ jobs:
       contents: write
       issues: write
       pull-requests: write
-      packages: write  # Required for GitHub Packages
+      packages: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Required for semantic-release
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
