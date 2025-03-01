@@ -10,3 +10,4 @@ curl http://localhost:8080
 
 
 docker pull ghcr.io/bh-devops-playground/microservice-a:v1.0.0
+

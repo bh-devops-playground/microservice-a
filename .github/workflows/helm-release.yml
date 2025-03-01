@@ -41,4 +41,4 @@ jobs:
 
       - name: Push Helm Chart to GHCR
         run: |
-          helm push microservice-a-${{ env.CHART_VERSION }}.tgz oci://ghcr.io/${{ github.repository_owner }}/helm-charts
+          helm push helm-chart-${{ env.CHART_VERSION }}.tgz oci://ghcr.io/${{ github.repository_owner }}
