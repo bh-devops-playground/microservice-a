@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/bh-devops-playground/microservice-a/compare/v1.4.0...v1.5.0) (2025-03-01)
+
+
+### Features
+
+* add helm chart ([b28915f](https://github.com/bh-devops-playground/microservice-a/commit/b28915f7492c594abaef98794aa778bd2742bbcc))
+* add helm chart ([#11](https://github.com/bh-devops-playground/microservice-a/issues/11)) ([ede9189](https://github.com/bh-devops-playground/microservice-a/commit/ede9189594d937602a17dc6cb0770827d640397f))
+
 # [1.4.0](https://github.com/bh-devops-playground/microservice-a/compare/v1.3.0...v1.4.0) (2025-03-01)
 
 
