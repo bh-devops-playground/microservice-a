@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/bh-devops-playground/microservice-a/compare/v1.2.0...v1.2.1) (2025-03-01)
+
+
+### Bug Fixes
+
+* small changes for workflow vs push ([4a4655c](https://github.com/bh-devops-playground/microservice-a/commit/4a4655c567a21358399138de4a9720d6f905ea6d))
+
 # [1.2.0](https://github.com/bh-devops-playground/microservice-a/compare/v1.1.0...v1.2.0) (2025-03-01)
 
 
